@@ -240,7 +240,7 @@
       "running-text": {
         "type": "running-text",
         "settings": {
-          "show_runningtext": true,
+          "show_runningtext": false,
           "running_text": "Welcome to our website",
           "text_color": "#ffffff",
           "background_color": "#000000",
